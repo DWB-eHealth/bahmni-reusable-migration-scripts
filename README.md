@@ -1,4 +1,4 @@
-# Bahmni reusable migration scripts 
+# OpenMRS-Bahmni reusable migration scripts 
 
 ### Concepts
 
