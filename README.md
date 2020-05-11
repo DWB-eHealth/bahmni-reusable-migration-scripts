@@ -1,4 +1,4 @@
-# OpenMRS-Bahmni reusable migration scripts (Liquibase)
+# OpenMRS-Bahmni reusable migration scripts (MySQL-Liquibase)
 
 ### Concepts
 
